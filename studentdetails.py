@@ -1,3 +1,8 @@
+'''
+author:angel
+date:1 october 2024
+version:1.0
+'''
 name=input('enter the student name:')
 rollno=int(input('enter roll no:'))
 rollno=rollno+1
