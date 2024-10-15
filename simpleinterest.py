@@ -1,6 +1,6 @@
 '''
 author:angel
-date:14 ctober 2024
+date:14 october 2024
 version:1.0
 '''
 principle=int(input('enter principle:'))
